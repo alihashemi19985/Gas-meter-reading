@@ -1,0 +1,2 @@
+Gas meter reading with deep learning image classification and object detection refers to the use of deep learning techniques, specifically image classification and object detection algorithms, to automatically read gas meters from images. Gas meters are devices used to measure the volume of gas consumed by a household or commercial building, and reading them manually can be time-consuming and error-prone.
+با استفاده از الگوریتم‌های یادگیری عمیق، می‌توان فرآیند خواندن کنتور گاز از تصاویر گرفته شده توسط دوربین‌ها یا گوشی‌های هوشمند را خودکار کرد.
